@@ -36,7 +36,7 @@
 ## ⚡️ Getting Started
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/AICoworkers.git
+   git clone https://github.com/chau-phan94/AICoworkers.git
    ```
 2. Open `AICoworkers.xcodeproj` in Xcode.
 3. Add your OpenAI API key in the appropriate config.
@@ -61,7 +61,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License – see the [LICENSE](../LICENSE) file for details.
 
 ## 🙋‍♂️ Contact
-Created by [Your Name]. For questions, open an issue or email youremail@example.com.
+Created by [Chau Phan]. For questions, open an issue or email chau.phan@navercorp.com.
 
 ---
 
