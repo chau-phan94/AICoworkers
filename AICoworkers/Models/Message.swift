@@ -4,9 +4,10 @@ import Foundation
 enum MessageType: String, Codable {
     case user
     case ai
+    case aiSuggestion // For AI-generated clarifying questions/suggestions
 }
 
-struct Message: Identifiable, Codable {
+struct Message: Identifiable, Codable, Equatable {
     let id: UUID
     let content: String
     let type: MessageType
